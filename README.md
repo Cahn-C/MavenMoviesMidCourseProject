@@ -1,6 +1,6 @@
 # MavenMoviesMidCourseProject
 
-<h1>Situation</h1>
+<h1>Situation: The company's insurance policy is up for renewal and the insurance compnay's underwriters need some updated information from us before they wiill issue a new policy.</h1>
 
 
 1.	We will need a list of all staff members, including their first and last names, 
@@ -39,8 +39,6 @@ Please provide the average payment you process, as well as the maximum payment y
 
 
 
-/*
 8.	We would like to better understand what your customer base looks like. 
 Please provide a list of all customer identification values, with a count of rentals 
-they have made all-time, with your highest volume customers at the top of the list.
-*/
+they have made all-time, with your highest volume customers at the top of the list.<br><br>
