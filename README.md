@@ -1,6 +1,6 @@
 # MavenMoviesMidCourseProject
 
-<h2>Situation: The company's insurance policy is up for renewal and the insurance compnay's underwriters need some updated information from us before they wiill issue a new policy.</h2>
+<h2><i>Situation: The company's insurance policy is up for renewal and the insurance compnay's underwriters need some updated information from us before they wiill issue a new policy.</h2></i>
 
 
 1.	We will need a list of all staff members, including their first and last names, 
